@@ -1,0 +1,13 @@
+{
+  "har": {
+    "chiphell": {
+      "name": "chiphell 每日登录保活",
+      "filename": "chiphell.har",
+      "version": 1,
+      "content": "",
+      "comments": "chiphell 官方已下线每日签到插件（dsu_paulsign 等全部返回“插件不存在或已关闭”）。本模板改为每天带 Cookie 访问一次论坛，等效完成“每日登录”，并在执行日志中记录积分与用户组。",
+      "siteurl": "https://www.chiphell.com",
+      "interval": 86400
+    }
+  }
+}
