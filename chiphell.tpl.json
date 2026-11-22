@@ -1,7 +1,7 @@
 {
   "name": "chiphell",
   "siteurl": "https://www.chiphell.com",
-  "sitename": "chiphell 每日登录保活",
+  "sitename": "chiphell 签到",
   "note": "chiphell 官方已下线每日签到插件（dsu_paulsign 等全部返回“插件不存在或已关闭”）。本模板改为每天带 Cookie 访问一次论坛，等效完成“每日登录”，并在执行日志中记录积分与用户组。",
   "interval": 86400,
   "variables": [

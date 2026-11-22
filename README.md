@@ -1,4 +1,6 @@
-# QD 模板集 · chiphell 每日登录保活
+# chiphell 签到
+
+> QD 签到框架模板 · chiphell 已下线签到插件，本模板以「每日登录」方式等效完成签到（详见第一节）
 
 适用于 **QD 签到框架**（[binux/qiandao](https://github.com/binux/qiandao) 及其衍生版，如 `a76yyyy/qiandao`）的 chiphell 模板。
 
